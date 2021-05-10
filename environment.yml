@@ -1,0 +1,11 @@
+name: IS445-Xinyu Lu
+dependencies:
+  - python
+  - numpy
+  - pandas
+  - pip:
+    - matplotlib
+    - plotly
+    - ipywidgets
+    - bqplot
+    - matplotlib
